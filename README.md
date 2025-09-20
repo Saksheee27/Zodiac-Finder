@@ -18,5 +18,11 @@ datetime (for date handling)
 
 # Screenshot
 
+<img width="1920" height="1080" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/2837de4b-0746-4dc8-be63-9b37752518d7" />
+
+
+
 # Acknowlegement
+
+Thanks to Kamal Sir for this..
 
